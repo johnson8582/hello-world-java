@@ -11,5 +11,6 @@ public class HelloWorld {
     System.out.println("webhooks 2");
     System.out.println("webhooks 3");
     System.out.println("webhooks 4");
+    System.out.println("test");
   }
 }
